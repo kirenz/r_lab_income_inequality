@@ -1,4 +1,4 @@
-# R Lab: Income Inequality Analysis
+# R Lab: Income Inequality Analysis (OECD Data)
 
 ![](https://upload.wikimedia.org/wikipedia/sco/0/0d/OECD_logo_new.svg)
 
