@@ -1,5 +1,8 @@
 # R Lab: Income Inequality Analysis
 
+![](https://upload.wikimedia.org/wikipedia/sco/0/0d/OECD_logo_new.svg)
+
+
 The gap between rich and poor keeps widening. Growth, if any, has disproportionally benefited higher income groups while lower income households have been left behind. This long-run increase in income inequality not only raises social and political concerns, but also economic ones. 
 
 In this problem set, we use the latest OECD data on income inequality to check wether the previous statemts can be confirmned.  
@@ -12,7 +15,7 @@ Income inequality among individuals is measured here by the **Gini coefficient**
 
 ## Task description
 
-Tasks:
+ - Tasks:
     a) Drop the following variables: INDICATOR, SUBJECT, MEASURE, FREQUENCY, Flag Codes. If necessary, convert variables.
     b) Identifiy and report (value, country and year) the lowest and highest Gini value in the dataset. 
     c) Identifiy the country with the highest variation in the Gini coefficient (hint: use interquartile range) and create a barplot (with x=TIME). 
