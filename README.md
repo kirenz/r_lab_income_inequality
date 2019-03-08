@@ -15,7 +15,7 @@ Income inequality among individuals is measured here by the **Gini coefficient**
 
 ## Task description
 
- - Tasks:
+  - Tasks:
     a) Drop the following variables: INDICATOR, SUBJECT, MEASURE, FREQUENCY, Flag Codes. If necessary, convert variables.
     b) Identifiy and report (value, country and year) the lowest and highest Gini value in the dataset. 
     c) Identifiy the country with the highest variation in the Gini coefficient (hint: use interquartile range) and create a barplot (with x=TIME). 
