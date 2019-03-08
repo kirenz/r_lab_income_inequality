@@ -5,7 +5,7 @@
 
 The gap between rich and poor keeps widening. Growth, if any, has disproportionally benefited higher income groups while lower income households have been left behind. This long-run increase in income inequality not only raises social and political concerns, but also economic ones. 
 
-In this problem set, we use the latest OECD data on income inequality to check wether the previous statemts can be confirmned.  
+In this lab, we use the latest OECD data on income inequality to check wether the previous statemts can be confirmed.  
 
 *Income* is defined as household disposable income in a particular year. It consists of earnings, self-employment and capital income and public cash transfers; income taxes and social security contributions paid by house-holds are deducted. The income of the household is attributed to each of its members, with an adjustment to reflect differences in needs for households of different sizes. 
 
